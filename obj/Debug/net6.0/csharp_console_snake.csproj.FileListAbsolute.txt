@@ -1,0 +1,15 @@
+C:\Users\hagay\Desktop\csharp_console_snake\bin\Debug\net6.0\csharp_console_snake.exe
+C:\Users\hagay\Desktop\csharp_console_snake\bin\Debug\net6.0\csharp_console_snake.deps.json
+C:\Users\hagay\Desktop\csharp_console_snake\bin\Debug\net6.0\csharp_console_snake.runtimeconfig.json
+C:\Users\hagay\Desktop\csharp_console_snake\bin\Debug\net6.0\csharp_console_snake.dll
+C:\Users\hagay\Desktop\csharp_console_snake\bin\Debug\net6.0\csharp_console_snake.pdb
+C:\Users\hagay\Desktop\csharp_console_snake\obj\Debug\net6.0\csharp_console_snake.csproj.AssemblyReference.cache
+C:\Users\hagay\Desktop\csharp_console_snake\obj\Debug\net6.0\csharp_console_snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hagay\Desktop\csharp_console_snake\obj\Debug\net6.0\csharp_console_snake.AssemblyInfoInputs.cache
+C:\Users\hagay\Desktop\csharp_console_snake\obj\Debug\net6.0\csharp_console_snake.AssemblyInfo.cs
+C:\Users\hagay\Desktop\csharp_console_snake\obj\Debug\net6.0\csharp_console_snake.csproj.CoreCompileInputs.cache
+C:\Users\hagay\Desktop\csharp_console_snake\obj\Debug\net6.0\csharp_console_snake.dll
+C:\Users\hagay\Desktop\csharp_console_snake\obj\Debug\net6.0\refint\csharp_console_snake.dll
+C:\Users\hagay\Desktop\csharp_console_snake\obj\Debug\net6.0\csharp_console_snake.pdb
+C:\Users\hagay\Desktop\csharp_console_snake\obj\Debug\net6.0\csharp_console_snake.genruntimeconfig.cache
+C:\Users\hagay\Desktop\csharp_console_snake\obj\Debug\net6.0\ref\csharp_console_snake.dll
