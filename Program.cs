@@ -11,8 +11,9 @@
             while (!finished)
             {
                 canvas.drawCanvas();
+                snake.Input();
                 snake.drawSnake();
-                Console.Read();
+                snake.drawSnake();
             }
         }
     }
